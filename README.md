@@ -1,6 +1,7 @@
 # Made by AI
 
 [![Made by AI](https://img.shields.io/badge/Made%20by-AI-lightgrey?style=for-the-badge)](https://github.com/mefengl/made-by-ai)
+[![Commit Messages by AI](https://img.shields.io/badge/Commit%20Messages%20by-AI-green?style=for-the-badge)](https://github.com/mefengl/made-by-ai)
 
 This repository contains various styles, colors, and texts for "Made by AI" badges, which you can use in your projects to show they were created using artificial intelligence.
 
@@ -63,6 +64,14 @@ To use any of these badges in your project, simply copy the Markdown code and pa
 
 ```markdown
 [![AI Assisted No?](https://img.shields.io/badge/AI%20Assisted-No%3F-red?style=for-the-badge)](https://github.com/mefengl/made-by-ai)
+```
+
+### Commit Messages by AI
+
+[![Commit Messages by AI](https://img.shields.io/badge/Commit%20Messages%20by-AI-green?style=for-the-badge)](https://github.com/mefengl/made-by-ai)
+
+```markdown
+[![Commit Messages by AI](https://img.shields.io/badge/Commit%20Messages%20by-AI-green?style=for-the-badge)](https://github.com/mefengl/made-by-ai)
 ```
 
 ## Credits
